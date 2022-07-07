@@ -1,2 +1,2 @@
 # My First Repository
-My First Day on Github.
+My First Day on Github
